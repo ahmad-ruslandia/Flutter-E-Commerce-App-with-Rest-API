@@ -1,0 +1,8 @@
+#install node 18.13.0
+nvm install 18.13.0
+
+#using node 18.13.0
+nvm use 18.13.0
+
+#install node modules
+npm install
