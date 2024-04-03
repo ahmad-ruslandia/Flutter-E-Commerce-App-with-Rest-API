@@ -1,3 +1,10 @@
+<!-- PROJECT LOGO -->
+<p align="center">
+  <h3 align="center">E-Commerce App with Rest API</h3>
+</p>
+
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
 <!-- GETTING STARTED -->
 
 ## Getting Started
@@ -8,7 +15,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/ahmadruslandia/Flutter-E-Commerce-App.git
+   git clone https://github.com/ahmadruslandia/Flutter-E-Commerce-App-with-Rest-API.git
    ```
 2. Install packages
    ```sh
